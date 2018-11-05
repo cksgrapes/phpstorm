@@ -1,5 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="$USER_HOME$/.anyenv/envs/ndenv/shims/node" />
-  </component>
-</application>

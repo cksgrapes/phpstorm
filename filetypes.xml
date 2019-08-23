@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="content-photos" type="PHP" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="htpasswd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

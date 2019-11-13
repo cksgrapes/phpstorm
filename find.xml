@@ -20,5 +20,6 @@
     <mask>style</mask>
     <mask>*.scss</mask>
     <mask>*.scss,*.styls</mask>
+    <mask>top.min.js</mask>
   </component>
 </application>
